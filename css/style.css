@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Roboto', sans-serif;
+    font: weight 700px;
+}
+.convention-btn{
+    text-decoration: none;
+    border: none;
+    border-radius: 8px;
+    width: 100%;
+}
+.convention-bg-succes{
+    background-color:rgb(243, 237, 225);
+}
+.apple-store{
+    border: white solid 1px;
+    border-radius: 8px;
+    padding: 5px 8px;
+}
+.google-play{
+    border: white solid 1px;
+    border-radius: 8px;
+}
+.footer-part{
+    color: white;
+    text-decoration: none;
+}
